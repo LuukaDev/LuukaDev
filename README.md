@@ -44,10 +44,6 @@
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
-###
-
-[Snake animation](https://github.com/LuukaDev/LuukaDev/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuukaDevv&repo=LuukaDev&theme=react)](https://github.com/LuukaDev/LuukaDev)
 
 ###
 
