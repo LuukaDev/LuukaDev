@@ -17,6 +17,7 @@
 <h3 align="left">✨ Boa Comunicação 🗣️<br>🤝 Trabalho em Equipe<br>⏳ Gestão do Tempo ⏰<br>🧠 Pensamento Crítico 💡<br>🎨 Criatividade 🖌️</h3>
 
 ###
+###
 
 <h2 align="left">Minhas Linguagens</h2>
 
