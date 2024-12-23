@@ -46,7 +46,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LuukaDev/LuukaDev/output/snake.svg" alt="Snake animation" />
+[Snake animation](https://github.com/LuukaDev/LuukaDev/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuukaDevv&repo=LuukaDev&theme=react)](https://github.com/LuukaDev/LuukaDev)
 
 ###
 
