@@ -1,4 +1,4 @@
-<h1 align="center">° ° °  🟡 ° ° ° 🍒 ° ° ° 👻 ° ° ° 👻 ° ° ° 🍉 ° ° <br><br>Olá sejá Bem vindo</h1>
+<h1 align="center">° ° °  🟡 ° ° ° 🍒 ° ° ° 👻 ° ° ° 👻 ° ° ° 🍉 ° ° ° <br><br>Olá sejá Bem vindo</h1>
 
 ###
 
