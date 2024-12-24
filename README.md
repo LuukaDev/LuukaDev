@@ -1,8 +1,8 @@
-<h1 align="center">° ° °  🟡 ° ° ° 🍒 ° ° ° 👻 ° ° ° 👻 ° ° ° 🍉 ° °</h1>
+<h1 align="center">° ° °  🟡 ° ° ° 🍒 ° ° ° 👻 ° ° ° 👻 ° ° ° 🍉 ° ° <br><br>Olá sejá Bem vindo</h1>
 
 ###
 
-<p align="left">Olá, seja bem-vindo! Eu me chamo Lucas e sou desenvolvedor back-end. Costumo criar projetos como jogos, softwares, desafios e muito mais. Fique à vontade para explorar e conhecer um pouco do meu trabalho.</p>
+<p align="left">Eu me chamo Lucas e sou desenvolvedor back-end. Costumo criar projetos como jogos, softwares, desafios e muito mais. Fique à vontade para explorar e conhecer um pouco do meu trabalho.</p>
 
 ###
 
@@ -12,11 +12,13 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://giffiles.alphacoders.com/370/3703.gif"  />
+<div align="center">
+  <img height="200" src="https://giffiles.alphacoders.com/370/3703.gif"  />
+</div>
 
 ###
 
-<h2 align="left">✨ Boa Comunicação 🗣️<br>🤝 Trabalho em Equipe<br>⏳ Gestão do Tempo ⏰<br>🧠 Pensamento Crítico 💡<br>🎨 Criatividade 🖌️<br>°<br>°<br>°</h2>
+<h4 align="center">✨ Boa Comunicação 🗣️<br>🤝 Trabalho em Equipe<br>⏳ Gestão do Tempo ⏰<br>🧠 Pensamento Crítico 💡<br>🎨 Criatividade 🖌️</h4>
 
 ###
 
