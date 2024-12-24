@@ -1,10 +1,4 @@
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/e7/7a/1e/e77a1e25a95370f4f625c115f1622378.gif"  />
-</div>
-
-###
-
-<h1 align="center">🟡 ° ° ° 🍒 ° ° ° 👻 ° ° ° 👻 ° ° ° 🍉 ° °</h1>
+<h1 align="center">° ° °  🟡 ° ° ° 🍒 ° ° ° 👻 ° ° ° 👻 ° ° ° 🍉 ° °</h1>
 
 ###
 
@@ -16,11 +10,13 @@
 
 ###
 
-<img align="left" height="200" src="https://giffiles.alphacoders.com/370/3703.gif"  />
+<br clear="both">
+
+<img align="right" height="200" src="https://giffiles.alphacoders.com/370/3703.gif"  />
 
 ###
 
-<h3 align="left">✨ Boa Comunicação 🗣️<br>🤝 Trabalho em Equipe<br>⏳ Gestão do Tempo ⏰<br>🧠 Pensamento Crítico 💡<br>🎨 Criatividade 🖌️<br>°<br>°<br>°°<br></h3>
+<h2 align="left">✨ Boa Comunicação 🗣️<br>🤝 Trabalho em Equipe<br>⏳ Gestão do Tempo ⏰<br>🧠 Pensamento Crítico 💡<br>🎨 Criatividade 🖌️<br>°<br>°<br>°</h2>
 
 ###
 
