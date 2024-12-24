@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">✨ Boa Comunicação 🗣️<br>🤝 Trabalho em Equipe<br>⏳ Gestão do Tempo ⏰<br>🧠 Pensamento Crítico 💡<br>🎨 Criatividade 🖌️<br>°<br>°</h3>
+<h3 align="left">✨ Boa Comunicação 🗣️<br>🤝 Trabalho em Equipe<br>⏳ Gestão do Tempo ⏰<br>🧠 Pensamento Crítico 💡<br>🎨 Criatividade 🖌️<br>°<br>°<br>°</h3>
 
 ###
 
