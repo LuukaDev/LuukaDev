@@ -40,13 +40,11 @@
 
   <!-- Banco de Dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
   <img src="https://img.icons8.com/color/48/000000/sql.png" height="50" alt="SQL" />
 
   <!-- Ferramentas de Dados -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" alt="Jupyter Notebook" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="50" alt="Google Colab" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Plotly-logo-01-square.png" height="50" alt="Plotly" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="50" alt="Excel" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="50" alt="Power BI" />
 </div>
