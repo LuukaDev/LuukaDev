@@ -60,11 +60,4 @@
   </a>
 </p>
 
----
 
-
-<h2 align="center">📚 Últimos Artigos</h2>
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Últimos artigos do Medium" />
-</div>
