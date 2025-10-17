@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
 
 <p align="center">
-  📊 <strong>Estudante de ADS | Análise de Dados & Desenvolvimento Web</strong><br>
-  💻 Apaixonado por transformar dados em insights e criar soluções eficientes.
+  💻 <strong>Desenvolvedor Full Stack & Analista de Dados</strong> | Python, Java e SQL<br>
+  🛡️ Apaixonado por transformar dados em insights e criar sistemas seguros (DevSecOps).
 </p>
 
 ---
@@ -10,10 +10,9 @@
 <h2 align="center">👨‍💻 Sobre Mim</h2>
 
 <p align="left">
-  Me chamo <strong>Lucas</strong> e sou estudante do 2º semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> e formado em <strong>Técnico de Programação de Jogos Digitais</strong>.<br><br>
-  Tenho experiência prática em <strong>análise e visualização de dados</strong>, trabalhando com <strong>Python (Pandas, Scikit-learn)</strong>, <strong>MySQL</strong>, <strong>MongoDB</strong> e <strong>Power BI</strong>.  
-  Já desenvolvi projetos de <strong>modelagem de bases de dados, dashboards interativos, automação de processos</strong> e <strong>monitoramento de indicadores</strong>.  
-  Além disso, atuo também como <strong>freelancer em desenvolvimento web</strong> com <strong>JavaScript (Node.js/React)</strong> e possuo conhecimentos em <strong>APIs REST</strong> e boas práticas de programação.
+  Me chamo <strong>Lucas</strong>. Sou formado em <strong>Técnico de Programação de Jogos Digitais</strong> e atualmente aprofundo meus conhecimentos em <strong>Análise e Desenvolvimento de Sistemas</strong> (2º semestre).<br><br>
+  Minha paixão está na união entre a **Análise de Dados** e o **Desenvolvimento Full Stack**. Sou proficiente em **Python (Pandas, Scikit-learn)** e **SQL (MySQL/MongoDB)** para geração de insights, e atuo no desenvolvimento de sistemas com **Java** e **JavaScript (Node.js/React)**, construindo **APIs REST** robustas.<br><br>
+  Tenho forte interesse em **Cibersegurança** e aplico princípios de **Secure Coding** e arquitetura **DevSecOps** em meus projetos, garantindo que as soluções sejam eficientes, escaláveis e seguras.
 </p>
 
 ---
@@ -21,22 +20,19 @@
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 <div align="center">
-  <!-- Linguagens e Bibliotecas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
 
-  <!-- Banco de Dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
 
-  <!-- Data & BI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" />
   <img src="https://img.icons8.com/color/48/power-bi.png" height="50" alt="Power BI" />
-
-  <!-- Ferramentas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux - Base de Cyber" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
 </div>
