@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 <strong>Desenvolvedor Full Stack & Analista de Dados</strong> | Python, Java e SQL<br>
-  🛡️ Apaixonado por transformar dados em insights e criar sistemas seguros (DevSecOps).
+  🛡️ Apaixonado por transformar dados em insights e criar sistemas seguros (Cibersegurança).
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 <p align="left">
   Me chamo <strong>Lucas</strong>. Sou formado em <strong>Técnico de Programação de Jogos Digitais</strong> e atualmente aprofundo meus conhecimentos em <strong>Análise e Desenvolvimento de Sistemas</strong> (2º semestre).<br><br>
-  Minha paixão está na união entre a **Análise de Dados** e o **Desenvolvimento Full Stack**. Sou proficiente em **Python (Pandas, Scikit-learn)** e **SQL (MySQL/MongoDB)** para geração de insights, e atuo no desenvolvimento de sistemas com **Java** e **JavaScript (Node.js/React)**, construindo **APIs REST** robustas.<br><br>
+  Minha paixão está na união entre a **Análise de Dados** e o **Desenvolvimento Full Stack**. Sou proficiente em **Python (Pandas, Scikit-learn)** e **SQL (MySQL/MongoDB)** para geração de insights, e atuo no desenvolvimento de sistemas com **Java**, **JavaScript**, construindo **APIs REST** robustas.<br><br>
   Tenho forte interesse em **Cibersegurança** e aplico princípios de **Secure Coding** e arquitetura **DevSecOps** em meus projetos, garantindo que as soluções sejam eficientes, escaláveis e seguras.
 </p>
 
